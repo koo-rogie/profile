@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:f7cac9,100:092a8d&height=240&text=hello&animation=twinkling&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7cac9,100:092a8d&height=120&text=hello&animation=&fontColor=000000&fontSize=40" />
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 수정예정 </h2>  
